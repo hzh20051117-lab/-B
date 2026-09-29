@@ -46,6 +46,7 @@
 - [查看六张角色变体](final/variants/)
 - [查看制作过程与版本说明](docs/iterations.md)
 - [查看过程原图](process/)
+- [查看制作方法与关键修改记录](docs/workflow.md)
 
 ## 主图预览
 
