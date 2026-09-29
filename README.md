@@ -10,7 +10,8 @@
 
 通过低机位、具有纵深的彩色棋盘，以及从上方伸向格子的猫爪，突出角色与玩法的互动。画面右侧安排挑战文案与行动按钮。
 
-主文案：CAN YOU SOLVE IT?
+主文案：FIND THE LAST CAT.
+副文案：Where does it belong?
 行动按钮：PLAY NOW
 
 ## 角色与画风
